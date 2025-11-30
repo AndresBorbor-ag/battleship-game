@@ -20,7 +20,7 @@ How to Run Using Docker:
       docker run -it andresborbor/battleship-game
 
 GitHub Repository URL:
-PASTE YOUR PUBLIC GITHUB REPOSITORY URL HERE
+https://github.com/AndresBorbor-ag/battleship-game
 
 Docker Hub Image URL:
-PASTE YOUR DOCKER HUB IMAGE URL HERE
+https://hub.docker.com/repository/docker/andresborbor/battleship-game/general
